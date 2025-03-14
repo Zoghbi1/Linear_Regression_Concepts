@@ -82,4 +82,4 @@ lasso_coefficients = lasso.fit(X_lasso, y_lasso).coef_
 plt.bar(names, lasso_coefficients)
 plt.xticks(rotation=45)
 plt.show()
-# and that's  not surprising :p  but that technique allows as to comunicate results to not-tech-audiences ..
+# and that's  not surprising :p  but that technique allows us to comunicate results to not-tech-audiences ..
